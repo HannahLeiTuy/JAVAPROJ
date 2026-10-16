@@ -1,0 +1,12 @@
+
+# NetBeans generated files
+/build/
+/dist/
+nbproject/private/
+
+# Derby database files
+/SchoolDB/
+/derby.log
+
+# Java files
+*.class
